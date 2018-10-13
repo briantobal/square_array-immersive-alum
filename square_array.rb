@@ -8,3 +8,4 @@ end
 
 ary = Array.new
 myArray=Array.new
+famousCats << "nalacat"
