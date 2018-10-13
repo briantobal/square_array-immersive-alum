@@ -8,8 +8,3 @@ def square_array(array)
   end 
 end
 
-
-# ary = Array.new
-# myArray=Array.new
-# famousCats << "nalacat"
-
