@@ -4,3 +4,7 @@ def square_array(array)
     item 
   end 
 end
+
+
+ary = Array.new
+myArray=Array.new
