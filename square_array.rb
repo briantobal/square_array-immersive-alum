@@ -3,3 +3,5 @@ def square_array(array)
     item = item**2
   end 
 end
+
+ary = Array.new
